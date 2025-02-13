@@ -47,8 +47,7 @@ Este repositório apresenta uma solução de desafio que combina análise explor
 
 1. **Clone o Repositório:**
    ```bash
-   git clone <URL_DO_REPOSITORIO>
-   cd <NOME_DO_REPOSITORIO>
+   git clone https://github.com/lucasodl95/SuperstoreAnalyticsML
    ```
 
 2. **Crie e Ative um Ambiente Virtual:**
