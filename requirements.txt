@@ -1,0 +1,10 @@
+python-dotenv
+pandas
+numpy
+matplotlib
+seaborn
+ipykernel
+scikit-learn
+transformers
+fpdf
+torch
